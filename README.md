@@ -30,7 +30,7 @@ Estructura:
   
   .) Algoritmo de búsqueda de ruta óptima (`ruta_optima`)
   
-  .) Representación interna mediante diccionarios de diccionarios 
+  .) Representación interna mediante diccionarios de diccionarios -> {origen: {destino: {"tiempo": X, "costo": Y}}}
   
 
 Ejmplo para el uso del código: 
