@@ -37,7 +37,7 @@ Ejmplo para el uso del código:
 -
 ( Cabe recalcar que en el codígo ya se encuentra un ejemplo un poco más extenso )
 
-# Creación de red
+-Creación de red
 
 red = Red_Distribucion_Alimentos()
 
@@ -48,7 +48,7 @@ red.agregar_nodo("Supermercado")
 red.agregar_ruta("Almacén", "Supermercado", 30, 50)
 
 
-# Consulta de ruta óptima
+-Consulta de ruta óptima
 
 red.ruta_optima("Almacén", "Supermercado", "tiempo")
 
